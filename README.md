@@ -1,8 +1,8 @@
 # Responsi Senior Project - Studi Kasus 1
 
-Nama : Moh Rizky Arif
-NIU : 478613
-Sesi : 3 Juni 2024, 07:00 AM
+Nama : Moh Rizky Arif\
+NIU : 478613\
+Sesi : 3 Juni 2024, 07:00 AM\
 Secret String : f218faf7cafb60dda5e38ef71b90a4d5ba5b694d8a25353af989d874652818ba20240603005526
 
 ## Checklist Responsi
