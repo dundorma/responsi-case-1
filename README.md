@@ -1,8 +1,8 @@
 # Responsi Senior Project - Studi Kasus 1
 
-Nama : [NAMA]  
-NIU : [NIU]  
-Sesi : [SESI]  
+Nama : Moh Rizky Arif
+NIU : 478613
+Sesi : 3 Juni 2024, 07:00 AM
 Secret String : [SECRET_STRING]
 
 ## Checklist Responsi
